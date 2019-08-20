@@ -33,3 +33,6 @@ covers line chart, scatter plot, box plot, histogram, bar chart and 3D plot
 1. [Heatmap](#7)
 1. [3D Plot](#8)
 
+
+## [See plots in html](/Users/anna/Documents/GitHub/https://github.com/tang0614/Introduction-to-plotly.express/blob/master/express.html)
+
